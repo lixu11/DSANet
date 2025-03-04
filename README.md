@@ -5,6 +5,11 @@ Abstract—Camouflaged objects commonly exhibit a striking visual resemblance to
 
 **Qualitative Comparison**
 
-![图7-2](https://github.com/user-attachments/assets/a3ba05f6-fbff-45cb-acbc-2b4460508be4)
+![图8](https://github.com/user-attachments/assets/22d03036-f842-415f-bc84-951bf601a0bb)
+**Fig 8**
 
+![1-9](https://github.com/user-attachments/assets/4c1496fb-1bee-4cf6-ae24-eebf1b4ba25e)
+**Fig 9**
 
+![10](https://github.com/user-attachments/assets/69841bda-6f25-4711-89ff-444486fb0c36)
+**Fig 10**
